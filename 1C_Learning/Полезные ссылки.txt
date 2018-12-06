@@ -1,8 +1,6 @@
 1. Видео с описанием решения задач но по 8.2
 http://programmist1s.ru/sertifikat-spetsialist-po-platforme/
 
-2. Портал с текстовыми решениями и выгрузками решений
-http://shkola-fiziki.ru/%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/itemlist/category/15-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%BA-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D1%83-1%D1%81-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82-%D0%BF%D0%BE-%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B5-8-3-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87
 
 
 3. Запись на курс 
@@ -12,7 +10,7 @@ http://1c.ru/rus/partners/training/tests/demand.jsp?eid=41537
 4. Канал на ютубе Андрей Морозов. Также найти на Ютубе видео как подготовить каркасную базу
 
 5. Примеры решения задач
-http://v2.ax-online.ru/Exams/AttPlatf/Task-1.3.aspx
+http://v2.ax-online.ru/Exams/AttPlatf/Default.aspx
 
 
 Что сохранил и помню.
