@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommandGroup xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4b5a8f59-6427-430f-8c22-575f30b7ce56">
+  <name>ПВХ</name>
+  <synonym>
+    <key>ru</key>
+    <value>ПВХ</value>
+  </synonym>
+  <representation>Auto</representation>
+</mdclass:CommandGroup>

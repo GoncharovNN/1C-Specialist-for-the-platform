@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d8f1f48b-6fb1-4cc7-b03c-176650bd4d15">
+  <producedTypes>
+    <selectionType typeId="3c8fec08-6f80-4f2c-955a-e70f1b386f28" valueTypeId="0d3efc15-3a78-4119-a001-e59e6fd1a22a"/>
+    <listType typeId="363504e4-ec9a-424e-ba86-5b6464781bf0" valueTypeId="ec7ac2c1-c1c1-44e6-bff2-d79017d1492a"/>
+    <managerType typeId="cc599237-4ca6-4fdd-a0bd-b95eb4ec6710" valueTypeId="ac1d4b7d-d18b-4465-ad46-e040315819bf"/>
+    <recordSetType typeId="5f83f8b5-d047-4204-b337-dea65d72b8a0" valueTypeId="c6f406fc-0225-4bc3-bfdb-ef9799027a31"/>
+    <recordKeyType typeId="597de872-c86b-4cd5-84b0-2944ef3eb0b6" valueTypeId="24ad02ca-ca27-4fa8-9453-f0ffd002f180"/>
+    <recordType typeId="5735f9fc-0c58-43f3-981f-0c99b3f5cdd3" valueTypeId="23bf3b5c-5ce5-4915-a205-2bb5215df445"/>
+    <recordManagerType typeId="e9ade4d1-f37a-4a91-888d-8b71084db54d" valueTypeId="ff8dad48-8e70-433f-8718-401ec025f65f"/>
+  </producedTypes>
+  <name>УчетнаяПолитика</name>
+  <synonym>
+    <key>ru</key>
+    <value>Учетная политика</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <informationRegisterPeriodicity>Year</informationRegisterPeriodicity>
+  <writeMode>RecorderSubordinate</writeMode>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="2412829c-caf8-4472-bb62-709250bed7fb">
+    <name>МетодСписания</name>
+    <synonym>
+      <key>ru</key>
+      <value>Метод списания</value>
+    </synonym>
+    <type>
+      <types>EnumRef.УчетнаяПолитика</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+</mdclass:InformationRegister>

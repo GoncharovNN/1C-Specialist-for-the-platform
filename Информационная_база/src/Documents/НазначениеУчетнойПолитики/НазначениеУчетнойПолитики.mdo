@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fa0ee552-5aba-4ee4-ab27-3d188e0cc4b4">
+  <producedTypes>
+    <objectType typeId="56708ea0-e993-4c1f-9057-f5e52afd1293" valueTypeId="8c4edcdc-29e5-4b66-982b-3b783031040b"/>
+    <refType typeId="945bae69-6ba6-469a-a254-ecd532dbada1" valueTypeId="d12c229d-d3b1-4d86-8105-7c7630f06cca"/>
+    <selectionType typeId="872134de-9d48-420f-8c64-86e72784c7e6" valueTypeId="0ec7d8ca-7ec6-4c85-8183-eadd2d493c63"/>
+    <listType typeId="14c00129-c178-4064-8fff-17ea88d88fc5" valueTypeId="7682975a-9ab9-4db2-bfa8-1a8fb2721cc0"/>
+    <managerType typeId="bfb42e9e-818a-425d-bbd8-8112c16e1cd5" valueTypeId="b4fb7f84-50bd-4a55-a052-ce2e88804911"/>
+  </producedTypes>
+  <name>НазначениеУчетнойПолитики</name>
+  <synonym>
+    <key>ru</key>
+    <value>Назначение учетной политики</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.НазначениеУчетнойПолитики.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <realTimePosting>Deny</realTimePosting>
+  <registerRecords>InformationRegister.УчетнаяПолитика</registerRecords>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="f7858f03-3e4a-420f-9c62-64c3bdb9af98">
+    <name>МетодСписания</name>
+    <synonym>
+      <key>ru</key>
+      <value>Метод списания</value>
+    </synonym>
+    <type>
+      <types>EnumRef.УчетнаяПолитика</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Document>
